@@ -42,8 +42,5 @@ jobs:
       run: |
         python test_main.py
 
-    - name : python script
-      run: |
-       python release_candidate.py
-     
+    
     
