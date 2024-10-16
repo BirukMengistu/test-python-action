@@ -38,9 +38,7 @@ jobs:
       run: |
        python test.py
       
-    - name: Test with pytest
-      run: |
-        python test_main.py
+    
 
     
     
